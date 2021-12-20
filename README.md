@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-rebase-practiceブランチ更新
+mainブランチ更新
